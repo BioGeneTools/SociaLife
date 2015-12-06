@@ -8,6 +8,6 @@ SociaLife is a strategic game for entertainment
 4. Getting married and having children will increase all the 3 parameters. 
 
 ### Requirement
-MAC OS X
+- MAC OS X
 
 >We will be happy to hear your feedback or willing to contribute.
