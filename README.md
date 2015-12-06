@@ -7,5 +7,7 @@ SociaLife is a strategic game for entertainment
 3. Be aware of that decreasing Happiness and Love parameters will cuts your salary(more tax), and increasing Strees does the same too. 
 4. Getting married and having children will increase all the 3 parameters. 
 
+### Requirement
+MAC OS X
 
 >We will be happy to hear your feedback or willing to contribute.
