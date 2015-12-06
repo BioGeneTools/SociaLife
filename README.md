@@ -8,4 +8,5 @@ SociaLife is a strategic game for entertainment
 4. Getting married and having children will increase all the 3 parameters. 
 
 
-We will be happy to hear your feedback or willing to contribute. 
+>We will be happy to hear your feedback or willing to contribute. 
+*we will be happy*
